@@ -1,5 +1,5 @@
 # ASCII\_CARD
-![](ASCII_CARD_logo.png)
+![](/logos/ASCII_CARD_logo_for_github.png)
 
 ## License
 Copyright 2024 Norimasa TAKANA  
