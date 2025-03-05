@@ -1,5 +1,5 @@
 # ASCII\_CARD
-![](ASCII_table.png)
+![](ASCII_CARD_logo.png)
 
 ## License
 Copyright 2024 Norimasa TAKANA  
